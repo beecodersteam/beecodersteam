@@ -1,7 +1,9 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=45&pause=1000&color=FBC700&background=6A1C8D&center=true&vCenter=true&width=435&height=60&lines=%F0%9F%90%9D+Bee+Coders+%F0%9F%90%9D)](https://git.io/typing-svg)
-![logo-horiz-white](https://github.com/beecodersteam/beecodersteam/assets/144821959/e82e0367-8b14-4bd3-8cad-e17b8641f73e)
+![logo-horiz-white]()
 -->
+<img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/e82e0367-8b14-4bd3-8cad-e17b8641f73e" height="80" />
+
 
 # <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="50" /> Nossa Colmeia
 
