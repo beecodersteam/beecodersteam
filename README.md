@@ -1,4 +1,6 @@
-# 🐝 Nossa Colmeia 🐝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=45&pause=1000&color=FBC700&background=6A1C8D&center=true&vCenter=true&width=435&height=60&lines=%F0%9F%90%9D+Bee+Coders+%F0%9F%90%9D)](https://git.io/typing-svg)
+
+# Nossa Colmeia
 
 A BeeCoders é uma comunidade, formada por uma equipe de profissionais apaixonados, focada em transformar ideias em realidade. Acreditamos firmemente que as "ideias podem voar" e estamos dedicados a dar asas à inovação.
 
