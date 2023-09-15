@@ -11,15 +11,15 @@ A BeeCoders é uma comunidade, formada por uma equipe de profissionais apaixonad
 
 Cada membro da nossa equipe traz consigo um conjunto único de habilidades e uma paixão inigualável pelo desenvolvimento de software.
 
-## <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="30" /> Junte-se à nossa comunidade!
+## <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="20" /> Junte-se à nossa comunidade!
 
  Conecte-se com outros membros da comunidade Bee Coders. Envie uma solicitação através no nosso website: https://beecoders.club
 
-## <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="30" /> Fun facts
+## <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="20" /> Fun facts
 
 Você sabia que as abelhas são os únicos insetos no mundo que produzem alimento que os humanos podem comer? O mel produzido pelas abelhas não é apenas saboroso, mas também não estraga. Arqueólogos encontraram potes de mel em tumbas egípcias antigas que têm mais de 3000 anos e ainda estão perfeitamente comestíveis!
 
-## <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="30" /> Contato
+## <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="20" /> Contato
 
 Se você tiver perguntas ou precisar de mais informações, não hesite em entrar em contato conosco. 
 <p align="left">
