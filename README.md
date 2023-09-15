@@ -16,4 +16,13 @@ Você sabia que as abelhas são os únicos insetos no mundo que produzem aliment
 
 ### 📨 Contato
 
-Se você tiver perguntas ou precisar de mais informações, não hesite em entrar em contato conosco. Você pode nos enviar um e-mail para contact@beecoders.club.
+Se você tiver perguntas ou precisar de mais informações, não hesite em entrar em contato conosco. 
+<p align="left">
+  <a target="_blank" href="mailto:contact@beecoders.club" alt="E-mail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=contact@beecoders.club"></a>
+ <a target="_blank" href="https://www.linkedin.com/company/bee-coders-club" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=bee-coders-club"></a>  
+  <a target="_blank" href="https://www.instagram.com/beecodersclub/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=%23ffffff&label=becodersclub">
+</p>
+
