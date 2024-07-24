@@ -3,6 +3,8 @@
 ![logo-horiz-white]()
 -->
 <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/e82e0367-8b14-4bd3-8cad-e17b8641f73e" height="80" />
+
+
 # <img src="https://github.com/beecodersteam/beecodersteam/assets/144821959/aa29b1ed-ea47-45bd-bf95-aa81040c341d" height="30" /> Our Hive
 
 BeeCoders is a community formed by a team of passionate professionals focused on turning ideas into reality. We firmly believe that "ideas can fly" and we are dedicated to giving wings to innovation.
